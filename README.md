@@ -20,9 +20,10 @@ Build a lightweigh AI-powered tool for defect and pose detection to enhance oper
 - `data/`: Raw and processed datasets
 - `notebooks/`: Jupyter notebooks for exploration and modeling
 - `src/`: Python scripts for pipeline logic
+- `streamli_app demo/`: App files for UI and interactive demo
 - `report/`: Final documentation, write-ups
 - `results/`: Evaluation outputs and visualizations
-- `demo/`: For demo UI
+- README.md : Project Overview 
 
 ## Status 
 06 / 28 / 2025 - 07 / 05 / 2025 Currently searching for dataset and preparing project skeleton.
