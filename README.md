@@ -22,6 +22,7 @@ Build a lightweigh AI-powered tool for defect and pose detection to enhance oper
 - `src/`: Python scripts for pipeline logic
 - `report/`: Final documentation, write-ups
 - `results/`: Evaluation outputs and visualizations
+- `demo/`: For demo UI
 
 ## Status 
 06 / 28 / 2025 - 07 / 05 / 2025 Currently searching for dataset and preparing project skeleton.
